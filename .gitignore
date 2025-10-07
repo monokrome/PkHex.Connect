@@ -1,0 +1,12 @@
+# Build artifacts
+*.md
+!README.md
+*.suo
+*.user
+.vs/
+bin/
+obj/
+
+# Non-git hidden files
+.*
+!.git*
